@@ -1,0 +1,17 @@
+[
+  {
+    "userId": 1,
+    "username": "admin",
+    "password": "admin"
+  },
+  {
+    "userId": 2,
+    "username": "realsale",
+    "password": "pricetag"
+  },
+  {
+    "userId": 3,
+    "username": "hashless",
+    "password": "saltless"
+  }
+]
