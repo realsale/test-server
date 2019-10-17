@@ -6,6 +6,6 @@ const server = http.createServer((req, res) => {
   res.end();
 });
 
-server.listen(4001, () => {
-  console.log("server listening on port 4001");
+server.listen(process.env.PORT || 4000, () => {
+  console.log("server is up and running");
 });
